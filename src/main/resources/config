@@ -1,7 +1,7 @@
 //Login Credentials
 
-loginUsername::automation
-loginPassword::828!Aug@
+loginUsername::
+loginPassword::
 
 
 //User Information
@@ -17,9 +17,6 @@ DataCollector::false
 //Test Cases
 
 TestUrl::cd-loadapp
-
-
-classPath::/Users/pranavpande/git/iFormWebAutomation/target/classes
 screenshotDirectory::/Users/pranavpande/ownCloud/Automation Scripts/Screenshots/
 downloadDirectory::/Users/pranavpande/downloads/
 errorEmail::ppande@zerionsoftware.com
